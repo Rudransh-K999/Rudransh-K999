@@ -1,7 +1,7 @@
 <h1>Hi There, I'm Rudransh Kumar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **High School Student🎓 (https://www.osu.edu/)** . I'm a **Tech Enthusiast 💻 😃** And a Mineacraft Addict. I love building My interesting ideas into reality using AI , As I am too lazy to learn how to code** <br/><br/>
+I'm a **High School Student🎓** . I'm a **Tech Enthusiast 💻 😃** And a Mineacraft Addict. I love building My interesting ideas into reality using AI , As I am too lazy to learn how to code** <br/><br/>
 Follow Me On Github And Youtube(https://www.youtube.com/@Rudransh-hu)
 
 ### ⚙️ Some Tool and Tech I use
@@ -11,7 +11,7 @@ Ru-Foto Ai - https://ruverser.github.io/rudransh_image_ai/
 <h3></h3>
 Gemini - https://gemini.google.com/
  <h3></h3>
-Youtube - Youtube.in
+Youtube - (youtube.in)
   <h3></h3>
 Sublime - https://www.sublimetext.com/
 
