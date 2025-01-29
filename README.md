@@ -11,7 +11,7 @@ Ru-Foto Ai - https://ruverser.github.io/rudransh_image_ai/
 <h3></h3>
 Gemini - https://gemini.google.com/
  <h3></h3>
-Youtube - https//youtube.in
+Youtube - https://www.youtube.com/?gl=IN
   <h3></h3>
 Sublime - https://www.sublimetext.com/
 
