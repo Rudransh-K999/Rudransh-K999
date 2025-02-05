@@ -5,15 +5,15 @@ I'm a **High School Student🎓** . I'm a **Tech Enthusiast 💻 😃** And a Mi
 Follow Me On Github And Youtube(https://www.youtube.com/@Rudransh-hu)
 
 ### ⚙️ Some Tool and Tech I use
-Chat Gpt - https://chatgpt.com/
+Chat Gpt (For Making Code Prompts for deep-seek) - https://chatgpt.com/
 <h3></h3>
-Ru-Foto Ai - https://ruverser.github.io/rudransh_image_ai/
+Ru-Foto Ai ( For logo and image generations for my Projects ) - https://ruverser.github.io/rudransh_image_ai/
 <h3></h3>
-Gemini - https://gemini.google.com/
+Deepseek AI (For Generating Code) - https://www.deepseek.com/
  <h3></h3>
-Youtube - https://www.youtube.com/?gl=IN
+Youtube (Hunting Cool Ideas) - https://www.youtube.com/?gl=IN
   <h3></h3>
-Sublime - https://www.sublimetext.com/
+Sublime(Text-Editor) - https://www.sublimetext.com/
 
 
  
@@ -36,3 +36,5 @@ Sublime - https://www.sublimetext.com/
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+
+    <h3></h3> My best Projects are below : <h3></h3>
